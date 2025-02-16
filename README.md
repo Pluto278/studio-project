@@ -11,13 +11,12 @@
 
 1. Initial Concept & Research 
 
-1.1 Why This Project? 
-The goal of this project was to explore **interactivity in generative art, inspired by:  
-- Golan Levin - Interactive particle systems and generative animations.  
-- Casey Reas - p5.js as an artistic medium for rule-based creation.  
-- Daniel Shiffman’s Coding Train** - Algorithmic animation techniques.  
-
-I wanted to experiment with **real-time user interaction** using **mouse movement, clicks, and microphone input** to create an immersive, dynamic visual experience.  
+1.1 Why This Project?
+Exploring Audience Interaction in Generative Art
+This project investigates how real-time interactivity transforms generative art, focusing on audience engagement and emergent behavior. Inspired by Golan Levin’s Audiovisual Environment Suite, I wanted to explore how user inputs (mouse movement, clicks, and microphone sound) can shape a dynamic visual system.
+The use of a particle system was chosen due to its ability to simulate natural, emergent movement—where individual elements behave autonomously but form cohesive, unpredictable patterns. This aligns with Casey Reas’ concept of "art from rules", where a set of simple principles can create complex, evolving compositions. 
+Additionally, the project incorporates sound-driven interactivity, responding to ambient noise and user-generated input. This adds a layer of unpredictability, reinforcing ideas from Glitch Art and Generative Systems, where randomness is an integral part of creative computing. 
+By integrating these interactive elements, my goal was to create an artwork that is not just observed but actively shaped by its audience, questioning the role of human agency in generative art.
 
 ---
 
